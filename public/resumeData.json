@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name": "Omatsola Isaac Sobotie",
+    "occupation": "Angular & ReactJS Developer",
+    "description": "Full Stack Angular & React Developer by Day, Founder && Freelancer by Night. #datDevGuy",
+    "image": "sholly-image.jpeg",
+    "bio": "A flexible, enthusiastic and hardworking individual with excellent communication timemanagement skills, highly motivated and committed with over 5 years experience in Web Development I've been working as a web-developer and web designer for over 2 years. I first started as a Front-end developer, working with HTML, CSS and JavaScript. Now I mostly work creating sites in ASP.NET, PHP, ANGULARJS, & REACT JS.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "tsola2002@yahoo.co.uk",
+    "phone": "+234 909 129 6676",
+    "address": {
+      "street": "3 Momodu Lawal Close",
+      "city": "Lagos",
+      "state": "Nigeria",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://web.facebook.com/boss.sholly",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://linkedin.com/in/omatsolasobotie",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/bosssholly/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/tsola2002",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Hertfordshire",
+        "degree": "Masters in Software Engineering",
+        "graduated": "January 2008",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Coventry University",
+        "degree": "Bachelor Of Science in Computer Science",
+        "graduated": "January 2007",
+        "description": "Graduated with Second Class Upper"
+      }
+    ],
+    "work": [
+      {
+        "company": "Fintrak Software",
+        "title": "Full Stack Developer",
+        "years": "April 2019 - Present",
+        "description": "Work with team members to develop standard financial and business/financial applications using ASP.Net, ENTITY FRAMEWORK, ANGULAR JS, SQL SERVER, ORACLE12c Effective deployment of Financial Software applications to Clients IIS Servers & Azure Cloud Servers respective clients in line with company policy. Work in accordance with standard of practice in execution of various projects. Collaborate with colleagues to improve on current software(s) in line with company policies. Extend technical support during preparation, installation and system maintenance to cross functional teams. Work collaboratively with Project Manager to ensure timely delivery of projects. Resolve application defects and issues in a timely manner. Building Microsoft Reports using POWER BI"
+      },
+      {
+        "company": "Enov8 Solutions",
+        "title": "Web Developer",
+        "years": "Oct 201e - April 2019",
+        "description": "Build Wordpress Websites for the company. set digital marketing strategies using all necessary tools (e.g. website, emails, social media ads and blogs). website and software application designing, building, or maintaining using PHP/MYSQL. SEO Update Review and Google Ads, adwords  programs and other online communications. Review & Promote the company and products offered on social media(Facebook, Twitter, Linkedin, YouTube). Weekly Compilation and content development for online Newsletters and Review of Special Offers and promotions. Produce and publish new content in a creative way. Liaise with in-house team members for editorial alignment on new posts."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Angularjs",
+        "level": "100%"
+      },
+      {
+        "name": "Reactjs",
+        "level": "95%"
+      },
+      {
+        "name": "Laravel",
+        "level": "60%"
+      },
+      {
+        "name": "ASP.NET",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": ""
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": ""
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": ""
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": ""
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Omatsola has been a breath of fresh air & he has been a pleasure to work with",
+        "user": "Rob Cook"
+      },
+      {
+        "text": "That Omatsola Isaac Sobotie must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Adrian Pritchard"
+      }
+    ]
+  }
+}
