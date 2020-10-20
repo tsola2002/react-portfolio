@@ -99,10 +99,22 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": ""
+        "title": "Airbnb Clone",
+        "category": "Airbnb Clone Template built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://airbnb-clone-c5f24.web.app"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Netflix Clone Template built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://netflix-clone-f8aff.web.app/"
+      },
+      {
+        "title": "TicTacToe Game App",
+        "category": "Tictactoe App built in Angular JS & PWA",
+        "image": "tictactoe.png",
+        "url": "https://tictactoe-game-da0c5.web.app/"
       },
       {
         "title": "MERN Stack TikTok Clone",
@@ -115,19 +127,8 @@
         "category": "Facebook Clone built with ReactJS",
         "image": "facebook-clone.png",
         "url": ""
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": ""
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": ""
       }
+      
     ]
   },
   "testimonials": {
