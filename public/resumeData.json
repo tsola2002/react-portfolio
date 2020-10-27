@@ -99,10 +99,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Airbnb Clone",
-        "category": "Airbnb Clone Template built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://airbnb-clone-c5f24.web.app"
+        "title": "Instagram Clone App Built with React JS & Google Firebase",
+        "category": "Instagram Clone App Built with React & JS Google Firebase",
+        "image": "instagram-clone.jpg",
+        "url": "https://instagram-clone-bb118.web.app/"
       },
       {
         "title": "Netflix Clone",
@@ -117,10 +117,10 @@
         "url": "https://tictactoe-game-da0c5.web.app/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": ""
+        "title": "Airbnb Clone",
+        "category": "Airbnb Clone Template built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://airbnb-clone-c5f24.web.app"
       },
       {
         "title": "Facebook Clone with React",
